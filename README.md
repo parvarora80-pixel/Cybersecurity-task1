@@ -36,15 +36,13 @@ nmap -O 127.0.0.1
 
 Operating System Detected:
 Microsoft Windows 11
-
 ## Screenshots
 
 ### Basic Scan
-![Basic Scan](Screenshot 2026-07-08 233834.png)
+![Basic Scan](Screenshot%202026-07-08%20233834.png)
 
 ### Service Version Scan
-![Service Scan](Screenshot 2026-07-09 000929.png)
+![Service Scan](Screenshot%202026-07-09%20000929.png)
 
 ### OS Detection Scan
-![OS Scan](Screenshot 2026-07-09 001007.png)
-
+![OS Scan](Screenshot%202026-07-09%20001007.png)

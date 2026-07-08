@@ -47,3 +47,4 @@ Microsoft Windows 11
 
 ### OS Detection Scan
 ![OS Scan](Screenshot 2026-07-09 001007.png)
+
